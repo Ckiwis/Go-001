@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/cty898/Go-000/Week04/user/dao"
-	"github.com/cty898/Go-000/Week04/user/redis"
+	"github.com/Ckiwis/Go-001/Week04/user/dao"
+	"github.com/Ckiwis/Go-001/Week04/user/redis"
 )
 
 func TestUserServiceImpl_Login(t *testing.T) {

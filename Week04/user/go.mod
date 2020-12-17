@@ -1,4 +1,4 @@
-module github.com/Ckiwis/Go-000/Week04/user
+module github.com/Ckiwis/Go-001/Week04/user
 
 go 1.14
 
